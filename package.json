@@ -1,0 +1,24 @@
+{
+	"name": "weather_app",
+	"version": "1.0.0",
+	"description": "An app that helps a user get their local weather",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "babel src -d lib"
+	},
+	"author": "Murad Khatib",
+	"license": "Apache-2.0",
+	"repository": "",
+	"devDependencies": {
+		"@babel/core": "^7.15.0",
+		"@babel/preset-env": "^7.15.0",
+		"babel-cli": "^6.26.0",
+		"babel-preset-env": "^1.7.0",
+		"css-minify": "^2.0.0",
+		"parcel-bundler": "^1.12.5",
+		"postcss": "^8.3.6",
+		"prettier": "^2.3.2"
+	},
+	"dependencies": {}
+}
