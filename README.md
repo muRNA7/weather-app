@@ -1,6 +1,6 @@
-# empty-project
+# Weather App
 
-Empty project.
+Weather App js.
 
 ## Building and running on localhost
 
